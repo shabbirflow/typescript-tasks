@@ -1,0 +1,23 @@
+PUT http://localhost:3200/tasks
+Content-Type: application/json
+{
+    "id": "6b01cbfc-162c-46fb-8788-6b59802a1b4a",
+    "status": "completed"
+}
+
+GET http://localhost:3200/tasks
+Content-Type: application/json
+
+POST http://localhost:3200/tasks
+Content-Type: application/json
+
+{
+  "title": "Prepare presentation",
+  "date": "2023-08-19",
+  "description": "Create a presentation for the upcoming team meeting",
+  "priority": "high",
+  "status": "completed"
+}
+
+
+
