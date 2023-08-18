@@ -7,6 +7,8 @@ Features:
 - Written in Typescript with Type Checks
 - All your tasks are being stored in a database.
 
+<img src="https://github.com/shabbirflow/typescript-tasks/assets/115451412/e0b45645-3992-41dc-a885-1f5e9ed0f350" width="90%"></img> 
+
   To run this app: Make a `.env` file in the `node-api` directory with your credentials:
 ```
 PORT=3200
