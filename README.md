@@ -9,7 +9,7 @@ Features:
 
 <img src="https://github.com/shabbirflow/typescript-tasks/assets/115451412/e0b45645-3992-41dc-a885-1f5e9ed0f350" width="90%"></img> 
 
-  To run this app: Update the `.env` file in the `node-api` directory with your credentials as shown below. Make sure the name of MYSQL_DB is 'tasks' :
+  To run this app: Update the `.env` file in the `node-api` directory with your credentials as shown below. Make sure the name of MYSQL_DB is 'todo' :
 ```
 PORT=3200
 MYSQL_USER= root
